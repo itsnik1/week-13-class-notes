@@ -53,7 +53,7 @@ editor: visual
 # Presentation
 
 - Written report: Ch1–3 (CEP 01–12)
-- 20 minutes, ~20–25 slides
+- 20 minutes, \~20–25 slides
   - PO vs. AO, client background, industry, SWOT
   - Research framework and data sources
   - Analytical methods for each AO
@@ -69,4 +69,4 @@ editor: visual
 # Appendix
 
 - [GitHub Repo](https://github.com/itsnik1/week-13-class-notes)
-- [Published Page](https://itsnik1.github.io/week-13-class-notes.html)
+- [Published Page](https://itsnik1.github.io/week-13-class-notes/)
