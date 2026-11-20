@@ -12,5 +12,61 @@ editor: visual
 
 # Overview of Week 13 through Week 15
 
+## Week 13 - Data Analysis (11/19)
+
+- Hypothesis testing (Ch17–18)
+  - t-tests, ANOVA, Chi-square, regression
+  - SEM - Direct and mediation effects
+- GP: Data analysis and final revisions
+- Milestone 6: Looker Studio Dashboard
+
+## Week 14 - Report Preparation (11/26)
+
+- No class - Thanksgiving
+- Finalize CEP report (Ch1–3) and slides
+  - Formatting, grammar, appendices
+  - Links to data, scripts, survey, Zotero
+
+## Week 15 - Final Proposal Defense (12/3)
+
+- Final presentation and report (Ch1–3)
+- IRB approval and OneDrive data link
+- Portfolio website submission
+  - 2–3 minute recorded presentation
+
+## Assignments on SEM
+
+- M15-SEM & Hypothesis Testing with Case 31
+- H1–H5: Factors affecting attitudes, civic consciousness, subjective norms, and behavioral control
+  - Demographics, cognition, social engagement
+  - Civic consciousness as mediator
+- H6–H8: Purchase intentions
+  - Attitudes, subjective norms, behavioral control (+)
+- H9–H10: Moderation
+  - Age strengthens, civic consciousness weakens relationships
+
 # Review Qualtrics Assignment #1-2
 
+- make edits
+- submit to IRB
+
+# Presentation
+
+- Written report: Ch1–3 (CEP 01–12)
+- 20 minutes, ~20–25 slides
+  - PO vs. AO, client background, industry, SWOT
+  - Research framework and data sources
+  - Analytical methods for each AO
+  - References and appendices
+- Grading
+  - At least 1 AO per member
+  - PO-to-AO alignment, methods, data sufficiency
+  - Credible sources
+- Oral presentation
+  - Storytelling over statistics
+  - Connect research, methods, and insights
+
+# Appendix
+
+- [GitHub Repo](https://github.com/itsnik1/week-13-class-notes)
+- [Published Page](https://itsnik1.github.io/week-13-class-notes.html)
